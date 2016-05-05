@@ -1,0 +1,2 @@
+# inderails
+Practice rails app.
